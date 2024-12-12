@@ -33,4 +33,29 @@ console.log(stringNumber);
 console.log(typeof stringNumber);
 
 
+//OPERATION
+
+let value = 3
+let negValue = - value
+console.log(negValue);
+
+
+
+console.log("1" + 2); //output will be 12
+console.log(1 + "2");//output will be 12
+
+console.log("1"+ 2 + 2);//output will be 122
+console.log(1 + 2 + "2");// output will be 32
+
+// Right way to write
+console.log((2+4)*5*3); // standard way to write
+
+
+
+
+
+
+
+
+
 
