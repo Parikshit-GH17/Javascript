@@ -14,5 +14,18 @@ console.log(gameName.indexOf('t'));
 
 
 
+const newString = "     parikshit  "
+console.log(newString);
+console.log(newString.trim());
+
+const newstring = gameName.substring(0,4)
+console.log(nee=wstring);
+
+const anotheString = gameName.slice(-8,4)
+console.log(anotheString);
+
+
+
+
 
 
