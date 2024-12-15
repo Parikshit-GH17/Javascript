@@ -58,7 +58,7 @@ const all_new_heros = [...marvel_hero , ...dc_hero]
  const real_another_Array = another_Array.flat(Infinity)
 //  console.log(real_another_Array)
 
-console.log(Array.isArray("Parikshit"))
-console.log(Array.from("Parikshit"))
+// console.log(Array.isArray("Parikshit"))
+// console.log(Array.from("Parikshit"))
 
 
