@@ -1,11 +1,14 @@
 
 function sayMyName(){
-    console.log("H");
-    console.log("I");
-    console.log("T");
-    console.log("E");
-    console.log("S");
-    console.log("H");
+    console.log("p");
+    console.log("a");
+    console.log("r");
+    console.log("i");
+    console.log("k");
+    console.log("s");
+    console.log("h");  
+    console.log("i");  
+    console.log("t");
 }
 
 // sayMyName()
